@@ -33,11 +33,11 @@ Estou estudando Sistemas de Informação e buscando oportunidades e colaboraçã
 <br/>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-fju&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-js&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=savio-fju&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=savio-js&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 <br/>
